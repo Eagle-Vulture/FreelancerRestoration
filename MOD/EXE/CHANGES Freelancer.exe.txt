@@ -1,0 +1,4 @@
+== For English Version ==
+
+Version 1.0
+* Modified STACK SIZE of Freelancer.exe to 2MB.
