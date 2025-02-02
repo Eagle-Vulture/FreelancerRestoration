@@ -1,0 +1,56 @@
+duration=20
+
+entities={
+	{
+		template_name="",
+		fogcolor={
+			0,
+			0,
+			0
+		},
+		entity_name="Layer_Hi_01_Bar_HardPoint",
+		type=9,
+		fogtable=0,
+		front=2,
+		fogstart=0,
+		fogend=0,
+		spatialprops={
+			orient={
+				{
+					1,
+					0,
+					0
+				},
+				{
+					0,
+					1,
+					0
+				},
+				{
+					0,
+					0,
+					1
+				}
+			},
+			pos={
+				0,
+				0,
+				0
+			}
+		},
+		fogon=0,
+		up=1,
+		template_id=0,
+		fogdensity=0,
+		ambient={
+			128,
+			128,
+			128
+		},
+		fogmode=0
+	}
+}
+
+events={}
+
+
